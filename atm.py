@@ -1,4 +1,19 @@
-#\n Your account No is:- {account_no},\n Balance is {currency}{balance}")
+# Welcome message
+# Enter the card
+# Language selection - English, Hindi, Marathi
+# Enter Pin
+# services - Withdraw, Chnage Pin, Check balance
+#   Withdraw -  Emter Amount 
+#               Enetr OTP
+#               collect cash
+#               Print Receipt option - Y/N
+#   change pin - Re-enter your pin
+#                Enetr new pin 
+#                Re-enter your new pin
+#                pin changed
+#   Check balance - display balance
+# Back to welcome
+
 import time
 import random
 from users import users
