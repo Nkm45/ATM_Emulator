@@ -12,7 +12,7 @@
 #                Re-enter your new pin
 #                pin changed
 #   Check balance - display balance
-# Back to welcome
+# Back to welcome message
 
 import time
 import random
