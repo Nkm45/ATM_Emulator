@@ -5,7 +5,7 @@ SBI ATM services
 3. Cash withdrawal
 
 ## Process
--Insert "I" for inserting the card
--Select language 
--Enter pin from the user list
--Select the service
+- Insert "I" for inserting the card
+- Select language 
+- Enter pin from the user list
+- Select the service
