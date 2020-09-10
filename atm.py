@@ -25,7 +25,7 @@ while True:
     ins = input("please press 'I' to insert your card  >>> ")
 
     if ins == "I":
-        print("please selct language")
+        print("please select language")
         languages = ["English", "Hindi", "Marathi"]
         for lang_idx, language in enumerate(languages, start=1):
             print(f"{lang_idx}. {language}")
